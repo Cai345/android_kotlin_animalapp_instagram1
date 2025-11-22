@@ -9,6 +9,9 @@ Created and instagram login Summary
 
 **Instagram Login** is an android app that **fill in this description**
 
+<img width="351" height="560" alt="image" src="https://github.com/user-attachments/assets/5e02f487-7a50-4356-ad28-fcec07fc46fc" />
+
+
 If I had to describe this project in three (3) emojis, they would be: **emojis here**
 
 Allows you to sign into instagram Application Features
@@ -30,11 +33,9 @@ The following EXTRA features are implemented:
 
 - [ ] List anything else that you added to improve the app!
 
-https://www.loom.com/share/2ee333a59b694231a4b56ff95efc1544?sid=7e5eb0cd-3468-4203-b847-c008404ed904 Video Demo
 
-Here's a video / GIF that demos all of the app's implemented features:https://www.loom.com/share/2ee333a59b694231a4b56ff95efc1544?sid=7e5eb0cd-3468-4203-b847-c008404ed904
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+Here's a video / GIF that demos all of the app's implemented 
+https://www.loom.com/share/e6f6d2959c1440f28f563bace8c7f86b
 
 GIF created with **your chosen GIF tool**
 
